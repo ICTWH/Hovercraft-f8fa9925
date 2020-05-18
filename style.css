@@ -1,0 +1,34 @@
+.groep td {
+    background-color: #f1f1f1f1;
+    padding: 13px 13px 13px;
+}
+
+.groep1{
+    background-color: orange; 
+    padding: 13px 13px 13px;
+    border: 1px solid black;
+}
+
+p{
+    font-size: 9px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.groep2{
+    background-color: purple;
+    border: 1px solid black;
+}
+
+.groep3{
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+.groep7{
+    background-color: yellow;
+    border: 1px solid black;
+}
